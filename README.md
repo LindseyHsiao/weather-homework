@@ -1,5 +1,5 @@
 # weather-homework
-<img src="./assets/images/Screen Shot.png" alt="Weathr Dashboard screenshot">
+<img src="./assets/images/Screen Shot.png" alt="Weather Dashboard screenshot">
 
 
 
